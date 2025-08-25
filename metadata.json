@@ -1,0 +1,5 @@
+{
+  "name": "Medical Document Analyzer",
+  "description": "An application to analyze multiple PDF and DOCX documents and generate an academic summary using AI.",
+  "requestFramePermissions": []
+}
